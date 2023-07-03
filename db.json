@@ -1,7 +1,8 @@
 {
-"supportedWidget":[
-      "widgetId",
-      "widgetId",
-      "widgetId"
-   ]
+      "supportedWidget" : {
+            "supportedWidget":[
+                  "1342062044811890048",
+                  "1559770750709419520"
+               ]
+      }
 }
